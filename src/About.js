@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
     return (
-        <div className="container grid grid-cols-2 gap-4 mx-auto px-8 ">
+        <div className="container md:grid grid-cols-2 gap-4 mx-auto px-8 ">
             <div className="content my-32 mx-auto mx-4 ">
                 <h1 className="text-2xl">About</h1>
                 <p className="py-2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
